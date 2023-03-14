@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /*
- * @author Éllen Oliveira Silva Neves (20202BSI0071) e Carlos Breno Norato Rosa (20202BSI0233)
+ * @author Éllen Oliveira Silva Neves e Carlos Breno Norato Rosa
  */
 
 public class Main {
